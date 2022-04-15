@@ -1,14 +1,25 @@
-<h1 align="center">Hi , I'm Andres <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;ACPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
+# <h1 align="center">Hi 👋, I'm Andres</h1>
+    
+<div>
+<strong>About Me:</strong><br>
+📚 I am currently a software engineering master's student at the University de los Andes<br>
+📈 I experienced in Software development, Data Analysis and Data Visualization<br>
+📫 Reach me at <a href="mailto:andelahozg@gmail.com">andelahozg@gmail.com</a><br>
+😄 Find me on <a href="https://www.linkedin.com/in/anfedelahoz/">Linkedin</a><br><br>
+  
+<strong>Languages and Tools :</strong><br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anfedelahoz&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anfedelahoz)
+
+
 
 <!--
 **anfedelahoz/anfedelahoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 💻 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
