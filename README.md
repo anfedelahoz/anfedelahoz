@@ -2,8 +2,8 @@
     
 <div>
 <strong>About Me:</strong><br>
-📚 I am currently a software engineering master's student at the University de los Andes<br>
-📈 I experienced in Software development, Data Analysis and Data Visualization<br>
+📚 I'm currently a software engineering master's student at the University de los Andes<br>
+📈 I'm passionate about software development, data analysis and data visualization<br>
 📫 Reach me at <a href="mailto:andelahozg@gmail.com">andelahozg@gmail.com</a><br>
 😄 Find me on <a href="https://www.linkedin.com/in/anfedelahoz/">Linkedin</a><br><br>
   
