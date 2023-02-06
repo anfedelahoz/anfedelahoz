@@ -2,6 +2,7 @@
     
 <div>
 <strong>About Me:</strong><br>
+⚡  I'm an electrical and sofware engineer with passion for learning and working with others. <br>
 📚 I'm currently a software engineering master's student at the University de los Andes<br>
 📈 I'm passionate about software development, data analysis and data visualization<br>
 📫 Reach me at <a href="mailto:andelahozg@gmail.com">andelahozg@gmail.com</a><br>
